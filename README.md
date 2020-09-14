@@ -1,1 +1,2 @@
-# ml_logistic_regression_lecture
+# Logistic regression
+## Interactive lecture
